@@ -1,4 +1,4 @@
-# Pandas Data Analysis
+# Pandas 
 
 A collection of Python scripts and Jupyter notebooks for data analysis using the pandas library.
 
